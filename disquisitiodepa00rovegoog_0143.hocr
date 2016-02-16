@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./disquisitiodepa00rovegoog_0143.png"; bbox 0 0 3025 5275; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 354 3693 1154 4086">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 354 3693 1154 3874">
+     <span class='ocr_line' id='line_1_1' title="bbox 354 3693 1103 3769; baseline 0 -13"><span class='ocrx_word' id='word_1_1' title='bbox 354 3694 524 3769; x_wconf 80' lang='lat' dir='ltr'>ROVERS,</span> <span class='ocrx_word' id='word_1_2' title='bbox 554 3693 727 3755; x_wconf 77' lang='lat' dir='ltr'><strong>Marinus</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 753 3693 854 3755; x_wconf 82' lang='lat' dir='ltr'><strong>Anne</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 879 3694 922 3754; x_wconf 87' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1055 3695 1103 3756; x_wconf 72' lang='grc' dir='ltr'><strong>ΒΞ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 405 3785 1154 3874; baseline -0.003 -14"><span class='ocrx_word' id='word_1_6' title='bbox 405 3797 678 3874; x_wconf 72' lang='lat' dir='ltr'><strong>Disquisitio</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 706 3799 752 3858; x_wconf 86' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1058 3785 1154 3870; x_wconf 79' lang='grc'>2651</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 355 3899 1128 3976">
+     <span class='ocr_line' id='line_1_3' title="bbox 355 3899 1128 3976; baseline 0.001 -16"><span class='ocrx_word' id='word_1_9' title='bbox 355 3900 478 3962; x_wconf 83' lang='lat' dir='ltr'><strong>Paulo</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 506 3899 751 3976; x_wconf 72' lang='lat' dir='ltr'><strong>religionis</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1063 3900 1128 3971; x_wconf 62' lang='lat' dir='ltr'><strong>‚BT</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 357 4010 897 4086">
+     <span class='ocr_line' id='line_1_4' title="bbox 357 4010 897 4086; baseline 0 -17"><span class='ocrx_word' id='word_1_12' title='bbox 357 4010 628 4072; x_wconf 72' lang='lat' dir='ltr'><strong>christianae</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 656 4011 897 4086; x_wconf 70' lang='lat' dir='ltr'><strong>apologeia.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 155 2 4081">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 155 2 4081">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 155 2 4081; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 155 2 4081; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1518 5275">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1518 5275">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1518 5275; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1518 5275; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 621 4882 734 5240">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 621 4882 734 5240">
+     <span class='ocr_line' id='line_1_7' title="bbox 621 4882 734 5240; baseline -0.009 -241"><span class='ocrx_word' id='word_1_16' title='bbox 621 4882 630 5240; x_wconf 79' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_17' title='bbox 709 4981 734 4999; x_wconf 66' lang='grc' dir='ltr'><strong>νο</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
